@@ -13,6 +13,11 @@ A simple and efficient desktop Todo List application built with Python and Tkint
 
 ## Installation
 
+Direct [Download Here](https://github.com/jasimuddinevan/todo-app-for-pc/releases/download/pc-app/todo_app.exe)
+and install.
+
+Or 
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/jasimuddinevan/todo-list-app.git
@@ -34,7 +39,7 @@ Alternatively, you can use the executable file from the `dist` folder for Window
 3. Click "Add Task" or press Enter to add the task
 4. To mark a task as complete, click the checkbox next to it
 5. To edit a task, double-click on it
-6. To delete a task, select it and click "Delete Task"
+6. To delete a task, select it and click "Delete Task."
 
 ## Developer
 
@@ -43,7 +48,7 @@ Alternatively, you can use the executable file from the `dist` folder for Window
 - GitHub: [jasimuddinevan](https://github.com/jasimuddinevan)
 - Facebook: [jasimuddinevan](https://www.facebook.com/jasimuddinevan)
 - Email: jasimuddin@xmail.net
-- Support Me [Buy A Coffe ☕](https://buymeacoffee.com/jasimuddin)
+- Support Me [Buy me a Coffe ☕](https://buymeacoffee.com/jasimuddin)
 
 ## License
 
